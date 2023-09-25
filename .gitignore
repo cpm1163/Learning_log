@@ -1,0 +1,7 @@
+venv
+venv/*
+learning_log
+learning_log/*
+read-me.txt
+.vscode
+.vscode/*
